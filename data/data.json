@@ -1,0 +1,21 @@
+[
+    {
+        "nama": "Tisna",
+        "noHP": "082397287915",
+        "kendaraan": "Minibus",
+        "jarak": "4"
+    },
+    {
+        "nama": "Tisna",
+        "noHP": "082397287915",
+        "kendaraan": "Minibus",
+        "jarak": "4"
+    },
+    {
+        "nama": "Andrea",
+        "noHP": "0834343228",
+        "kendaraan": "Sedan",
+        "jarak": "3",
+        "biaya_sewa": 25000
+    }
+]
